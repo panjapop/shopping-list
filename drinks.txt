@@ -1,5 +1,5 @@
 drinks
-<<<<<<< HEAD
+
 Freshly squeezed grapefruit juice
 Vodka
 Tonic water
@@ -7,9 +7,8 @@ Tonic water
 lemonade
 coca cola
 orange juice
-
+--------
 GIN
 RUM
 BRANDY
 
->>>>>>> origin/master
