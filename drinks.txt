@@ -7,4 +7,9 @@ Tonic water
 lemonade
 coca cola
 orange juice
+
+GIN
+RUM
+BRANDY
+
 >>>>>>> origin/master
