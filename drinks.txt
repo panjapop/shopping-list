@@ -1,4 +1,10 @@
 drinks
+<<<<<<< HEAD
 Freshly squeezed grapefruit juice
 Vodka
 Tonic water
+=======
+lemonade
+coca cola
+orange juice
+>>>>>>> origin/master
